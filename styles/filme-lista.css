@@ -27,7 +27,7 @@ filme-list__item {
 
 .filme-list__container {
     padding: var(--padding-s);
-    font-family: var(--font-texto);
+    font-family: var(--fonte-texto);
     flex-grow: 1;
 
     display: flex;
